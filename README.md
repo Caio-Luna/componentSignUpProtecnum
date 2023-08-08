@@ -2,12 +2,7 @@
 Componente do sistema de gestão de pedidos da empresa Protecnum
 
 <p align="center">
-  <img width="470" src="src/assets/cadastrar-print.jpeg">
-</p>
-
-
-<p align="center">
-  <img width="470" src="src/assets/video.gif">
+  <img width="500"  src="src/assets/video.gif">
 </p>
 
 
