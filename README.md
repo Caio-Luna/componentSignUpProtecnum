@@ -6,6 +6,11 @@ Componente do sistema de gestão de pedidos da empresa Protecnum
 </p>
 
 
+<p align="center">
+  <img width="470" src="src/assets/video.gif">
+</p>
+
+
 
 ## Description
 Componente interativo para cadastro de usuário desenvolvido com a tecnologia [React](https://react.dev/).Para ser utilizado no sistema de gestão de pedidos da empresa Protecnum. Uma interface simples com um layout agradável.
