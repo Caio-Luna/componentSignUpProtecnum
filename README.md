@@ -2,7 +2,7 @@
 Componente do sistema de gestão de pedidos da empresa Protecnum
 
 <p align="center">
-  <img width="500"  src="src/assets/video.gif">
+  <img width="600" height="400" src="src/assets/video.gif">
 </p>
 
 
